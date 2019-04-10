@@ -1,3 +1,3 @@
 FROM alpine
 
-RUN apk add --no-cache bash openssh-client rsync
+RUN apk add --no-cache bash openssh-client rsync sshpass
